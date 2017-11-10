@@ -1,0 +1,10 @@
+/* css styles for admin panel elements */
+
+i.vc_element-icon.wpm {
+	background-image: url('../images/wpm.png');
+	background-position: 0;
+}
+
+.wpb_listitem i.vc_element-icon.wpm, #listitem i.vc_element-icon.wpm {
+	background-image: url('../images/bloglist.png');
+}
